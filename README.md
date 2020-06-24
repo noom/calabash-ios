@@ -4,8 +4,6 @@
 
 ## Welcome to Calabash iOS
 
-[http://calaba.sh/](http://calaba.sh/)
-
 Calabash is an automated testing technology for Android and iOS native and hybrid applications.
 
 Calabash is a free-to-use open source project that is developed and maintained by [Xamarin](http://xamarin.com).
